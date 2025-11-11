@@ -1,0 +1,9 @@
+.vs/
+bin/
+obj/
+*.exe
+*.pdb
+*.cache
+*.suo
+*.db
+*.vsidx
